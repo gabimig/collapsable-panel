@@ -1,6 +1,6 @@
 {
   "name": "collapsable-panel",
-  "version": "1.6.5",
+  "version": "1.0.1",
   "description": "Panel with title and icon collapsable",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

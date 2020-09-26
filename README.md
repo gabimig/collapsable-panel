@@ -1,4 +1,4 @@
-# paper-labered
+# collapsable-panel
 
 Material-ui Collapsable with clickable header.
 
