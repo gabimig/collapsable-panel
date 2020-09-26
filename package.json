@@ -1,12 +1,16 @@
 {
   "name": "collapsable-panel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Panel with title and icon collapsable",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabimig/collapsable-panel.git"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
